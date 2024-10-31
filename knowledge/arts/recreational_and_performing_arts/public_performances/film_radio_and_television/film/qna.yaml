@@ -22,7 +22,7 @@ seed_examples:
       - question: |
           Who hosted the 2024 Oscars?
         answer: |
-          Jimmy Kimmel hosted the 96th Academy Awards ceremony.    
+          Jimmy Kimmel hosted the 96th Academy Awards ceremony.
       - question: |
           What film had the most Oscar nominations in 2024?
         answer: |
@@ -52,19 +52,19 @@ seed_examples:
       Director Hayao Miyazaki, at the age of 83, became the oldest director to win Best Animated Feature for The Boy and the Heron. 
       Additionally, The Boy and the Heron became the first PG-13 animated film to win Best Animated Feature; all of the 
       previous winners were rated G or PG.
-    questions_and_answers:  
+    questions_and_answers:
       - question: |
           What is the first Japanese film to wih the Best Visual Effects category?
         answer: |
           Godzilla Minus One
       - question: |
-          Who has the record for the most Best Picture nominations and how many? 
+          Who has the record for the most Best Picture nominations and how many?
         answer: |
-          Steven Spielberg has the record of thirteen nominations.    
+          Steven Spielberg has the record of thirteen nominations.
       - question: |
           What two films competed against each other in six categories, including Best Picture?
         answer: |
-          Oppenheimer and Barbie       
+          Oppenheimer and Barbie
   - context: |
       Categories, Winners and Nominees
         Best Picture
@@ -120,7 +120,7 @@ seed_examples:
                 Danielle Brooks – The Color Purple as Sofia
                 America Ferrera – Barbie as Gloria
                 Jodie Foster – Nyad as Bonnie Stoll
-    questions_and_answers: 
+    questions_and_answers:
       - question: |
           At the 2024 Oscars, who were the nominees for best director and who won?
         answer: |
