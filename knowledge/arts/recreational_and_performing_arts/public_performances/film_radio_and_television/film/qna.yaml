@@ -1,5 +1,4 @@
 version: 3
-task_description: 'Teach the model the results of the 2024 Oscars'
 created_by: juliadenham
 domain: pop_culture
 seed_examples:
@@ -204,7 +203,7 @@ seed_examples:
           What was the combined gross of the 2024 Best Picture nominees?
         answer: |
           $1.09 billion
-document_outlien: |
+document_outline: |
  Information about the 2024 Academy Awards ceremony where the Oscars are presented.
 document:
   repo: https://github.com/juliadenham/oscars2024_knowledge.git
